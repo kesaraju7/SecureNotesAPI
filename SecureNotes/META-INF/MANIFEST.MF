@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SecureNotes
+Bundle-SymbolicName: SecureNotes
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Automatic-Module-Name: SecureNotes
+Export-Package: com.example.securenotes,
+ com.example.securenotes.config,
+ com.example.securenotes.controller,
+ com.example.securenotes.dto,
+ com.example.securenotes.exception,
+ com.example.securenotes.model,
+ com.example.securenotes.repository,
+ com.example.securenotes.service
